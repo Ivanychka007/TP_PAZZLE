@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ValidationLibrary\bin\Debug\University.Puzzle.ValidationLibrary.dll
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ValidationLibrary\bin\Debug\University.Puzzle.ValidationLibrary.pdb
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ValidationLibrary\obj\Debug\University.Puzzle.ValidationLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ValidationLibrary\obj\Debug\University.Puzzle.ValidationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ValidationLibrary\obj\Debug\University.Puzzle.ValidationLibrary.dll
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ValidationLibrary\obj\Debug\University.Puzzle.ValidationLibrary.pdb

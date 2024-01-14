@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="University.Puzzle.UI.AboutUser">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <Members>
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEAAACAAAACAAAIAAAAAEAQAABAAAA=</HashCode>
+      <FileName>AboutUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="University.Puzzle.UI.AdministratorForm">
+    <Position X="6.25" Y="2.5" Width="2.75" />
+    <Members>
+      <Method Name="AdministratorForm_FormClosing" Hidden="true" />
+      <Field Name="buttonAddDifficulty" Hidden="true" />
+      <Field Name="buttonAddImage" Hidden="true" />
+      <Method Name="ButtonAddImage_Click" Hidden="true" />
+      <Field Name="buttonCreateGame" Hidden="true" />
+      <Method Name="ButtonCreateGame_Click" Hidden="true" />
+      <Field Name="buttonDeleteDifficulty" Hidden="true" />
+      <Field Name="buttonDeleteImage" Hidden="true" />
+      <Field Name="buttonMixImage" Hidden="true" />
+      <Method Name="ButtonMixImage_Click" Hidden="true" />
+      <Field Name="buttonSelectDifficulty" Hidden="true" />
+      <Field Name="buttonSelectImage" Hidden="true" />
+      <Method Name="ButtonSelectImage_Click" Hidden="true" />
+      <Method Name="ButtonToGameCreationTab_Click" Hidden="true" />
+      <Field Name="checkBoxFigure" Hidden="true" />
+      <Field Name="checkBoxOnField" Hidden="true" />
+      <Method Name="CheckBoxOnField_Click" Hidden="true" />
+      <Field Name="checkBoxOnHeap" Hidden="true" />
+      <Method Name="CheckBoxOnHeap_Click" Hidden="true" />
+      <Field Name="checkBoxOnLine" Hidden="true" />
+      <Field Name="checkBoxSquare" Hidden="true" />
+      <Method Name="CheckBoxSquare_Click" Hidden="true" />
+      <Field Name="checkBoxTriangle" Hidden="true" />
+      <Method Name="CheckBoxTriangle_Click" Hidden="true" />
+      <Method Name="CheckImageSelected" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="ConfigureDataGridView" Hidden="true" />
+      <Method Name="CreateDirectory" Hidden="true" />
+      <Field Name="dataGridGames" Hidden="true" />
+      <Field Name="dataGridViewDifficulty" Hidden="true" />
+      <Method Name="DataGridViewDifficulty_CellClick" Hidden="true" />
+      <Method Name="DataGridViewDifficulty_DoubleClick" Hidden="true" />
+      <Field Name="dataGridViewGames" Hidden="true" />
+      <Method Name="DataGridViewGames_CellClick" Hidden="true" />
+      <Field Name="DeleteGame" Hidden="true" />
+      <Method Name="DeleteGame_Click" Hidden="true" />
+      <Method Name="DisplayImage" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="game" Hidden="true" />
+      <Field Name="gameBindingSource" Hidden="true" />
+      <Method Name="GetAssembleModeCheckBoxes" Hidden="true" />
+      <Method Name="GetPieceFormCheckBoxes" Hidden="true" />
+      <Method Name="GetPole" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Field Name="groupBox4" Hidden="true" />
+      <Field Name="groupBox5" Hidden="true" />
+      <Field Name="groupBox6" Hidden="true" />
+      <Field Name="groupBox7" Hidden="true" />
+      <Field Name="Height" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="listBoxImages" Hidden="true" />
+      <Method Name="ListBoxImages_SelectedIndexChanged" Hidden="true" />
+      <Field Name="numericUpDownHorizontalPieces" Hidden="true" />
+      <Field Name="numericUpDownVerticalPieces" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Method Name="pictureBox1_Click" Hidden="true" />
+      <Field Name="PictureBoxDisplayImage" Hidden="true" />
+      <Method Name="SetCheckBox" Hidden="true" />
+      <Method Name="ShowErrorMessageBox" Hidden="true" />
+      <Method Name="ShowInfoMessageBox" Hidden="true" />
+      <Method Name="ShuffleImage" Hidden="true" />
+      <Field Name="tabControlNavigation" Hidden="true" />
+      <Method Name="TabControlNavigation_Selected" Hidden="true" />
+      <Field Name="tabPageDifficultyCreation" Hidden="true" />
+      <Field Name="tabPageGallery" Hidden="true" />
+      <Field Name="tabPageGameCreation" Hidden="true" />
+      <Field Name="tabPageGames" Hidden="true" />
+      <Field Name="textBoxDifficulty" Hidden="true" />
+      <Field Name="textBoxGameName" Hidden="true" />
+      <Field Name="textBoxImageName" Hidden="true" />
+      <Field Name="textBoxSelectedImage" Hidden="true" />
+      <Method Name="UncheckCheckBoxes" Hidden="true" />
+      <Method Name="UpdateDataGridDifficulties" Hidden="true" />
+      <Method Name="UpdateDataGridGames" Hidden="true" />
+      <Method Name="UpdateDifficultyParameters" Hidden="true" />
+      <Method Name="UpdateListBoxImages" Hidden="true" />
+      <Field Name="Width" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>I83CYwMlDKhMwXAJQMCRBsiiADUAMRqMISgZjwxIGSg=</HashCode>
+      <FileName>AdministratorForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="AboutUser" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="University.Puzzle.UI.AuthorizationRegistrationForm">
+    <Position X="2.25" Y="1.75" Width="2.5" />
+    <Members>
+      <Field Name="buttonLogin" Hidden="true" />
+      <Field Name="buttonRegister" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="textBoxLogin" Hidden="true" />
+      <Field Name="textBoxPassword" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CBAAAAIAECAAABAAAACIAAASAAAAAACAAQAAAAAACAI=</HashCode>
+      <FileName>AuthorizationRegistrationForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="UserForm" />
+      <Property Name="AdministratorForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="University.Puzzle.UI.CreateFigure">
+    <Position X="13.25" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgABAgAAACAAAAIAAYAAAgAAIAAAQAAABAQEAEAA=</HashCode>
+      <FileName>CreateFigure.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CreatePath" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="University.Puzzle.UI.CreatePath">
+    <Position X="13.25" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAMAAAQAAAAAAAAAAAwUAAAAAAAAIcAgAAAAAAAA=</HashCode>
+      <FileName>CreatePath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="University.Puzzle.UI.GameForm">
+    <Position X="9.25" Y="4.5" Width="2.75" />
+    <Members>
+      <Field Name="_gameId" Hidden="true" />
+      <Field Name="_notScore" Hidden="true" />
+      <Field Name="_saveHandler" Hidden="true" />
+      <Field Name="_userId" Hidden="true" />
+      <Field Name="arr" Hidden="true" />
+      <Field Name="arrTrue" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Method Name="button2_Click" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Event" Hidden="true" />
+      <Method Name="GameForm_FormClosing" Hidden="true" />
+      <Field Name="h" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="modeCount" Hidden="true" />
+      <Field Name="mousePos" Hidden="true" />
+      <Field Name="move" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Method Name="panel1_Paint" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="Picture" Hidden="true" />
+      <Method Name="pictureBox_MouseDown" Hidden="true" />
+      <Method Name="pictureBox_MouseMove" Hidden="true" />
+      <Method Name="pictureBox_MouseUp" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Method Name="pictureBox1_Click" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+      <Method Name="pictureBox2_Click" Hidden="true" />
+      <Field Name="pictureBox3" Hidden="true" />
+      <Method Name="pictureBox3_Click" Hidden="true" />
+      <Field Name="pictureBox4" Hidden="true" />
+      <Method Name="pictureBox4_Click" Hidden="true" />
+      <Field Name="player" Hidden="true" />
+      <Field Name="pole" Hidden="true" />
+      <Method Name="PuzzleSolved" Hidden="true" />
+      <Method Name="ResizeOrigImg" Hidden="true" />
+      <Field Name="scoreMode" Hidden="true" />
+      <Field Name="scoring" Hidden="true" />
+      <Method Name="ScoringPoints" Hidden="true" />
+      <Method Name="Srart" Hidden="true" />
+      <Method Name="Stop" Hidden="true" />
+      <Field Name="StopWatch" Hidden="true" />
+      <Field Name="timer1" Hidden="true" />
+      <Method Name="timer1_Tick_1" Hidden="true" />
+      <Field Name="w" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>IRUAohxBJCAQABiQAcCAYAQGgiAYQFwbZCgBAYFoVCA=</HashCode>
+      <FileName>GameForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CreateFigure" />
+      <Property Name="AboutUser" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="University.Puzzle.UI.UserForm">
+    <Position X="2.25" Y="4.5" Width="3.5" />
+    <Members>
+      <Field Name="buttonContinue" Hidden="true" />
+      <Field Name="buttonDeleteSave" Hidden="true" />
+      <Field Name="buttonPlay" Hidden="true" />
+      <Field Name="comboBoxDifficulty" Hidden="true" />
+      <Field Name="comboBoxScoreMode" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="ConfigureDataGridView" Hidden="true" />
+      <Field Name="dataGridViewGames" Hidden="true" />
+      <Method Name="DataGridViewGames_CellClick" Hidden="true" />
+      <Field Name="dataGridViewRecord" Hidden="true" />
+      <Field Name="dataGridViewSaves" Hidden="true" />
+      <Method Name="DataGridViewSaves_CellClick" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="Navigation" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+      <Method Name="PictureBoxRecordHelp_Click" Hidden="true" />
+      <Field Name="radioButton1" Hidden="true" />
+      <Field Name="radioButton2" Hidden="true" />
+      <Field Name="Reference" Hidden="true" />
+      <Method Name="ShowErrorMessageBox" Hidden="true" />
+      <Method Name="ShowInfoMessageBox" Hidden="true" />
+      <Field Name="tabPage1" Hidden="true" />
+      <Field Name="tabPage2" Hidden="true" />
+      <Field Name="tabPageSaves" Hidden="true" />
+      <Method Name="UpdateRecords" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AICGAAOEAChEAFgAyEiCAQgCIAAAABAqYQgYBIBNTCI=</HashCode>
+      <FileName>UserForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GameForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
