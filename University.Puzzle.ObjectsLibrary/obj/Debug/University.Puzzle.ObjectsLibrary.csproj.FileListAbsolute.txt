@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\bin\Debug\University.Puzzle.ObjectsLibrary.dll
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\bin\Debug\University.Puzzle.ObjectsLibrary.pdb
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\bin\Debug\linq2db.dll
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\bin\Debug\University.Puzzle.ValidationLibrary.dll
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\bin\Debug\University.Puzzle.ValidationLibrary.pdb
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\bin\Debug\linq2db.xml
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\obj\Debug\University.Puzzle.ObjectsLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\obj\Debug\University.Puzzle.ObjectsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\obj\Debug\University.Puzzle.ObjectsLibrary.csproj.CopyComplete
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\obj\Debug\University.Puzzle.ObjectsLibrary.dll
+C:\Users\hp\Desktop\4 курс\ТП\Проект\University.Puzzle.ObjectsLibrary\obj\Debug\University.Puzzle.ObjectsLibrary.pdb
